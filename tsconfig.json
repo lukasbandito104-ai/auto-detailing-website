@@ -1,0 +1,1 @@
+{\n  "compilerOptions": {\n    "target": "ES2020",\n    "module": "ES2020",\n    "baseUrl": ".",\n    "paths": {\n      "@/*": ["*"],\n      "@components/*": ["src/components/*"],\n      "@utils/*": ["src/utils/*"]\n    }\n  }\n}
